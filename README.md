@@ -1,1 +1,1 @@
-Hakan KABASAKAL'a ait kodlar bulunmaktadır.
+Şahsi kod arşivim.
